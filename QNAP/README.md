@@ -71,7 +71,7 @@ TS-119P II, TS-119P+, TS-119, TS-219P, TS-219, TS-219P II, TS-219P+, TS-221, TS-
 [ZeroTier_1.2.4-qnap-arm-x31.qpkg](https://download.zerotier.com/dist/zerotier_1.2.4-qnap-arm-x31.qpkg?pk_campaign=github_zerotiernas)
 
 ```
-TS-131, TS-231 ,TS-231+, TS-431, TS-431+
+TS-131, TS-228, TS-231 ,TS-231+, TS-431, TS-431+
 ```
 
 ***
